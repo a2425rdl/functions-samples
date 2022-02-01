@@ -59,7 +59,7 @@ This quickstart sample demonstrates using **Cloud Functions** triggered by **Pub
 This quickstart demonstrates how to trigger a function in response to the
 completion of a test matrix in **Firebase Test Lab**.
 
-<a name="environment"></a>
+<a name="environment"></a>gh pr checkout 829
 ## Development Boilerplates
 
 The Firebase CLI generates sample code for Cloud Functions using JavaScript or TypeScript.
@@ -103,7 +103,7 @@ Demonstrates how to automatically extract image's metadata using ImageMagick for
 Uses a Firebase Storage trigger.
 
 
-<a name="rtdb"></a>
+<a name="rtdb"></a>google admob
 ## Firebase Realtime Database Data Consistency
 
 These samples show how to implement automatic data consistency such as keeping a count of children, having a max amount of node childs, cleaning up old data etc...
